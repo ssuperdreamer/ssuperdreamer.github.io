@@ -1,6 +1,6 @@
 # Basic
 title: Axag Life
-subtitle: 每一刻的人生，都值得记录
+subtitle: 每一刻的人生 都值得记录
 #welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: 主业:iOS开发者 略懂游戏,健身的伪90后.
 creator: <a href="https://axag.fun">@a_xiang</a>
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: slate
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
