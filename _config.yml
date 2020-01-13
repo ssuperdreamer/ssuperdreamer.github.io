@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Axag Life
+subtitle: 每一刻的人生，都值得记录
+#welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: 主业:iOS开发者 略懂游戏,健身的伪90后.
+creator: <a href="https://axag.fun">@a_xiang</a>
 
-url: "http://vno.onevcat.com"
+url: "https://axag.fun"
 
 permalink: /:year/:month/:title/
 
@@ -13,16 +13,16 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 访问博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 简历, description: 我的简历, url: 'https://onevcat.com/2019/12/2019-final/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: _阿翔翔
+    github: ssuperdreamer
+#    twitter: onevcat
+#    gplus: 107108267983477358170
+    mail: ssuperdreamer@gmail.com
 
 # Google Analytics
 ga:
