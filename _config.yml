@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://onevcat.com/2019/12/2019-final/'}
+    - {title: 简历, description: 我的简历, url: ''}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
