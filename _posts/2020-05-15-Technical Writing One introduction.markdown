@@ -6,7 +6,7 @@ tags: 1.技术写作一(翻译)
 ---
 ## Technical Wtiting One introduction
 
-来自谷歌的技术写作课程(https://developers.google.com/tech-writing/one)，工作多年没有写技术文档的习惯，得把这个习惯养好，既然想要写好技术文档，那么谷歌这个指导就很有意义，自己一边学习一边尝试翻译。
+来自谷歌的[技术写作课程](https://developers.google.com/tech-writing/one)，工作多年没有写技术文档的习惯，得把这个习惯养好，既然想要写好技术文档，那么谷歌这个指导就很有意义，自己一边学习一边尝试翻译。
 
 ## 技术写作介绍
 
