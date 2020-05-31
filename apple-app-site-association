@@ -5,6 +5,9 @@
             {
                 "appID": "VE4FNT3556.com.SnailDacne.HangXinBao",
                 "paths": ["*"]
+            },{
+                "appID": "F388S9R7CB.com.scan.AuPurchase",
+                "paths": ["*"]
             }
         ]
     }
