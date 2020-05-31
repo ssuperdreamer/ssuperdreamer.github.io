@@ -28,7 +28,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 最后翻墙的工具有很多，每个人可以自行解决，翻墙后我们可以打开 `网络偏好设置=>高级=>代理=>查看下网页代理/安全网页代理`
 
-![](/Users/takeshi/Blog/axag-blog/assets/images/2020/20200531_3.png)
+![](/assets/images/2020/20200531_3.png)
 
 可以看到目前我的翻墙的本地代理是10080端口，然后我们在命令行将git 的网络代理设置为这个
 
@@ -46,11 +46,11 @@ cat .gitconfig
 
 查看下设置后是否成功
 
-![20200531_1](/Users/takeshi/Blog/axag-blog/assets/images/2020/20200531_1.png)
+![20200531_1](/assets/images/2020/20200531_1.png)
 
 然后再执行pod update命令 我们会发现速度有了质的飞跃(这个和翻墙工具的速度有关)
 
-![20200531_2](/Users/takeshi/Blog/axag-blog/assets/images/2020/20200531_2.jpeg)
+![20200531_2](/assets/images/2020/20200531_2.jpeg)
 
 
 
