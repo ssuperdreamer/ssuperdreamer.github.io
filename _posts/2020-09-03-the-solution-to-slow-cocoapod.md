@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The solution to slow cocoapod"
-subtitle: ""
-date: 2020-09-08
+subtitle: "cocoapod下载慢的解决方案"
+date: 2020-09-03 16:56:10
 author: "Axag"
 header-img: "img/post-ios-solution.jpg"
 tags: [iOS百宝箱]

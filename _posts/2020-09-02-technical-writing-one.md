@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Technical writing One introduction"
-subtitle: ""
-date: 2020-09-08
+subtitle: "技术写作指导一"
+date: 2020-09-02 16:55:10
 author: "Axag"
 header-img: "img/home-technical-wirte.jpg"
 tags: [翻译]
