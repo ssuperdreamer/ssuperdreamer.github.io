@@ -77,6 +77,7 @@ git push --tags
 这样我们就完成一个私有组件的工程构造 并且发布到代码仓库
 
 ## 4. 向私有的`Spec Repo`提交 `podspec`
+
 这个很简单，进入到你私有组件到工程目录下 xxxx.podspec 这一层级
 
 ```pod repo push TTYXSpecs TTYXUtils.podspec```
@@ -96,6 +97,7 @@ git push --tags
 再去看我们的Spec Repo远端仓库，也有了一次提交，这个podspec也已经被Push上去了。
 
 ## 5. 在具体工程项目中增加刚刚制作好的`Pod`并使用
+
 在具体工程项目的Podfile中 添加
 ```
 source 'http://xxx.xx.xx.xxx:3000/yanghongxiang/TTYXSpecs.git'

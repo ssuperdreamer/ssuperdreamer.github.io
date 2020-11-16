@@ -7,7 +7,7 @@ description: "关于程序与设计 | 阿翔，iOS & Mobile Lover，Software Eng
 keyword: "阿翔, Axag阿翔, Axag.fun, 金城武, iOS, @iOS, 阿翔的博客, Axag Blog, 博客, 个人网站, 互联网"
 url: "https://axag.fun"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
+subtitle: " wowowowowowowowowowowowowow"
 # Publish posts or collection documents with a future date.
 future: true
 
