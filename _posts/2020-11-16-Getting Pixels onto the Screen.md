@@ -1,4 +1,14 @@
-[TOC]
+---
+layout: post
+title: "Getting Pixels onto the Screen"
+subtitle: "一个像素是如何显示在屏幕上"
+date: 2020-11-16 18:50:10
+author: "Daniel Eggert 译:Axag"
+header-img: "img/post-bg-digital-native.jpg"
+tags: [翻译]
+---
+
+来自objc的[技术文章](https://www.objc.io/issues/3-views/moving-pixels-onto-the-screen/#core-graphics-quartz-2d)
 
 # 一个像素是如何显示在屏幕上的
 
