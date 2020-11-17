@@ -87,7 +87,6 @@ git push --tags
 这时候还会做一个验证，如果验证通过则顺利加到私有仓库了，验证不通过则还需要根据错误信息调整
 完成之后这个组件库就添加到我们的私有Spec Repo中了，可以进入到~/.cocoapods/repos/TTYXSpecs目录下查看
 ```
-.
 ├── LICENSE
 ├── TTYXSpecs
 │   └── 0.1.5
