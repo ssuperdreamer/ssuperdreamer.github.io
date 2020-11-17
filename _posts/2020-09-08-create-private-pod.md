@@ -64,16 +64,21 @@ ps:下面命令行中具体的私有仓库地址必须根据自己的私有仓�
 ```pod lib lint``` 
 
 这是用来验证podspec文件是否正确配置的，当显示 xxx passed validation. 就说明是正确的，然后我们将本地项目和我们刚才创建的git仓库连接起来
-``` it add .
+
+``` 
+$ git add .
 $ git commit -s -m "Initial Commit of Library"
 $ git remote add origin http://xxx.xx.xx.xxx:3000/yanghongxiang/TTYXUtils.git        #添加远端仓库
 $ git push origin master     #提交到远端仓库
 ```
+
 因为`podspec`文件中获取Git版本控制的项目还需要`tag`号，所以我们要打上一个tag
+
 ```
 git tag -m "first release" 0.1.0
 git push --tags 
 ```
+
 这样我们就完成一个私有组件的工程构造 并且发布到代码仓库
 
 ## 4. 向私有的`Spec Repo`提交 `podspec`
@@ -86,6 +91,7 @@ git push --tags
 
 这时候还会做一个验证，如果验证通过则顺利加到私有仓库了，验证不通过则还需要根据错误信息调整
 完成之后这个组件库就添加到我们的私有Spec Repo中了，可以进入到~/.cocoapods/repos/TTYXSpecs目录下查看
+
 ```
 ├── LICENSE
 ├── TTYXSpecs
@@ -93,6 +99,7 @@ git push --tags
 │       └── TTYXSpecs.podspec
 └── README.md
 ```
+
 再去看我们的Spec Repo远端仓库，也有了一次提交，这个podspec也已经被Push上去了。
 
 ## 5. 在具体工程项目中增加刚刚制作好的`Pod`并使用
