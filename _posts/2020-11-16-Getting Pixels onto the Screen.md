@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Pixels onto the Screen"
+title: "Getting Pixels Onto the Screen"
 subtitle: "一个像素是如何显示在屏幕上"
 date: 2020-11-16 18:50:10
 author: "Daniel Eggert 译:Axag"

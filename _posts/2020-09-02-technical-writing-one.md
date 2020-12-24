@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Technical writing One introduction"
+title: "Technical Writing One Introduction"
 subtitle: "技术写作指导一"
 date: 2020-09-02 16:55:10
 author: "Axag"

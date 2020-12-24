@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Create private Pod"
+title: "Create Private Pod"
 subtitle: "Cocoapod 私有库搭建"
 date: 2020-09-04 16:59:10
 author: "Axag"

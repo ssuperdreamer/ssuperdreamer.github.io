@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The solution to slow cocoapod"
+title: "The Solution Of Slow Cocoapod"
 subtitle: "cocoapod下载慢的解决方案"
 date: 2020-09-03 16:56:10
 author: "Axag"
