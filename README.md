@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[Axag Blog](https://axag.fun)
 ================================
 
 > I never expected this becomes popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://axag.fun/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
@@ -50,7 +50,7 @@ Ports
 - Out of date. Helps wanted for updating it on par with the main repo
 
 Translation
-- [🇨🇳 (somewhat outdated)](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
+- [🇨🇳 (somewhat outdated)](https://github.com/ssuperdreamer/ssuperdreamer.github.io/blob/master/_doc/README.zh.md)
 
 
 License
