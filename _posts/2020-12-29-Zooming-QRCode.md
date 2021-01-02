@@ -2,7 +2,7 @@
 layout: post
 title: "Zooming QRCode"
 subtitle: "放大缩小识别二维码"
-date: 22020-12-29 20:59:10
+date: 2020-12-29 20:59:10
 author: "Axag"
 header-img: "img/post-bg-rwd.jpg"
 tags: [iOS百宝箱]
